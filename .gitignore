@@ -1,6 +1,11 @@
 # Data files
 *.csv
 
+# Personal study notes
+Interview_Preparation_Report.md
+Interview_Verbatim_Script.md
+QnA_Reference_Sheet.md
+
 # Output (keep generated results for reviewers)
 # output/
 
