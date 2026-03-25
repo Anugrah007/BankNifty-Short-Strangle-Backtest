@@ -1,8 +1,8 @@
 # Data files
 *.csv
 
-# Output
-output/
+# Output (keep generated results for reviewers)
+# output/
 
 # Python
 __pycache__/

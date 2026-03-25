@@ -1,0 +1,37 @@
+============================================================
+DATA QUALITY REPORT — BankNifty Short Strangle Backtest
+============================================================
+
+Spot data rows loaded:         136,324
+Options data rows loaded:      10,266,681
+
+Spot date range:               2023-10-20 to 2025-04-09
+Options date range:            2023-01-02 to 2024-01-02
+Overlapping date range:        2023-10-20 to 2024-01-02
+
+Spot trading days:             364
+Options trading days:          247
+Trading days used (backtest):  247
+Days with spot coverage:       49
+Overlapping trading days:      49
+
+Unique option tickers (raw):   322
+
+Null rows dropped (spot):      0
+Null rows dropped (options):   0
+Zero-price rows dropped:       0
+Duplicate rows dropped (spot): 0
+Duplicate rows dropped (opts): 14546
+
+Missing 09:20 entry bars:      0 dates
+Missing 15:20 exit bars:       0 dates
+
+------------------------------------------------------------
+TRADE-LEVEL STATISTICS
+------------------------------------------------------------
+Days skipped (no CE/PE):       0
+CE legs hit SL:                122
+PE legs hit SL:                123
+Both legs hit SL same day:     41
+
+============================================================
