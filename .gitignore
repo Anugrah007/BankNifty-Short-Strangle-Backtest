@@ -1,5 +1,5 @@
-# Data files
-*.csv
+# Data files (large options CSV excluded — available in GitHub Releases)
+Options_data_2023.csv
 
 # Personal study notes
 Interview_Preparation_Report.md
